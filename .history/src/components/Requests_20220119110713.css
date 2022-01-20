@@ -1,0 +1,8 @@
+.requests-div {
+   padding: 0 2rem;
+    /* display: grid;
+    grid-template-rows: max-content;   */
+    width: auto;
+    display: inline-table;
+}
+

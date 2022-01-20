@@ -1,0 +1,7 @@
+.requests-div {
+    padding: 5rem;
+    margin: 5rem;
+    display: grid;
+    flex-direction: row;
+    justify-content: space-between;
+}

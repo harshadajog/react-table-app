@@ -1,10 +1,12 @@
+import logo from './logo.svg';
 import './App.css';
-import Requests from './components/Requests';
 
 function App() {
   return (
     <div className="App">
-      <div className="requests-wrapper">
+      <header className="Table Demo">
+      </header>
+      <div>
         <Requests />
       </div>
     </div>

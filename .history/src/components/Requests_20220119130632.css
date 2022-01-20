@@ -1,0 +1,10 @@
+.requests-div {
+   padding: 0 2rem;
+   max-height: 500px;
+   max-width: 500px;
+    /* display: grid;
+    grid-template-rows: max-content;   */
+    /* width: max-content;
+    display: inline-table; */
+}
+

@@ -1,0 +1,8 @@
+.requests-div {
+    padding: 5rem;
+    margin: 5rem;
+    display: grid;
+    grid-template-rows: max-content;
+    
+  
+}
